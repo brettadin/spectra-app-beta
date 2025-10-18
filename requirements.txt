@@ -4,5 +4,5 @@ pyqtgraph==0.13.7
 pytest==8.4.1
 
 astropy==7.1.1
-requests==2.32.3
+requests==2.32.4
 astroquery==0.4.7
